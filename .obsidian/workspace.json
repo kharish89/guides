@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "152f010b86e70067",
+    "type": "split",
+    "children": [
+      {
+        "id": "681449f8668dc7c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "781daf79579e5a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Installation/Arch Linux Arm installtion as VM in MacOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b010dfc36c609e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecfa574d80775274",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "070c07799a9cc02c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7dde17202b8a43f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#M1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6c680b9556d5408",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f6d437b44089fbdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa942265ed0a14e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "552e8cabc6b2f356",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Installation/Arch Linux Arm installtion as VM in MacOS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3696d5faa508c994",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Installation/Arch Linux Arm installtion as VM in MacOS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0b083de9212cd48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c26f9cce20c8cc7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Installation/Arch Linux Arm installtion as VM in MacOS.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "781daf79579e5a8c",
+  "lastOpenFiles": [
+    "Installation/Arch Linux Arm installtion as VM in MacOS.md",
+    "Installation/Apple silicon Mac TensorFlow ML setup.md",
+    "m1_ml_setup.md",
+    "Apple.md",
+    "Images/Arch linux installtion/Pasted image 20221023171156.png",
+    "Images/Arch linux installtion/Pasted image 20221023170848.png"
+  ]
+}

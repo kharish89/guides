@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65694469f02b1383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Installation/Arch Linux Arm installtion as VM in MacOS.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Installation/Arch Linux Arm installtion as VM in MacOS.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Installation/Arch Linux Arm installtion as VM in MacOS.md"
+                "file": "README.md"
               }
             }
           }
@@ -139,7 +152,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "781daf79579e5a8c",
+  "active": "65694469f02b1383",
   "lastOpenFiles": [
     "Installation/Arch Linux Arm installtion as VM in MacOS.md",
     "Installation/Apple silicon Mac TensorFlow ML setup.md",
